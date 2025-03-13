@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#files
+notebooks/EDA.ipynb
+
 # Distribution / packaging
 .Python
 build/
