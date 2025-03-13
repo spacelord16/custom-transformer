@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 #files
-notebooks/EDA.ipynb
+# notebooks/EDA.ipynb
 
 # Distribution / packaging
 .Python
